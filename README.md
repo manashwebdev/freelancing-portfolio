@@ -92,6 +92,6 @@ Everything is in `index.html`:
 ## Author
 
 **Manash K.**
-[GitHub](https://github.com/manashwebdev) · [LinkedIn](https://www.linkedin.com/in/manash-khati-b7a1b6385) · [Fiverr](https://www.fiverr.com/manash_in) · webdevmanash@gmail.com
+[GitHub](https://github.com/manashwebdev) · [LinkedIn](https://www.linkedin.com/in/manash-khati-b7a1b6385) · [Fiverr](https://www.fiverr.com/manashwebdev) · webdevmanash@gmail.com
 
 © 2026 Manash K. · Built by hand, no templates.
